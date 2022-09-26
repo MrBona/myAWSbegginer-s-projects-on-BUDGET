@@ -1,5 +1,4 @@
-# myAWSprojects
-# my AWS begginer's Project
+### myAWSbegginer's projects on BUDGET
 ### STEPS TO CREATE BUDGET IN AWS
 ###### 1. From AWS Console to AWS Budgets to Create Budget
 ###### 2. Choose Budget Type > Cost Budget
